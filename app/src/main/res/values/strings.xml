@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">BarberBooking</string>
+    <string name="FACEBOOK_APP_ID">295453404726639</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">16ba5334fa974f059fbd5dbcb09dc623</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="address_bullet">\u2022 Address:</string>
+    <string name="time_bullet">\u2022 Time:</string>
+    <string name="barber_bullet">\u2022 Barber:</string>
+    <string name="bullet">\u2022</string>
+
+</resources>
